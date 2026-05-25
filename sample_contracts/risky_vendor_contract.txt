@@ -1,0 +1,63 @@
+VENDOR SERVICES AGREEMENT
+
+This Vendor Services Agreement ("Agreement") is entered into as of January 1, 2025 ("Effective Date") 
+between Acme Corporation Ltd, a company incorporated in Kenya ("Client") and 
+TechVendor Solutions Inc., incorporated in Delaware, USA ("Vendor").
+
+1. SERVICES
+Vendor agrees to provide enterprise software licensing and support services as described in Schedule A.
+The initial term of this Agreement is 24 months from the Effective Date.
+
+2. PAYMENT TERMS
+Client agrees to pay Vendor USD $180,000 annually, invoiced quarterly in advance.
+Payment is due within 90 days of invoice date. Late payments shall incur interest at 
+24% per annum compounded monthly. Vendor may suspend services if payment is overdue by more than 15 days.
+
+3. AUTO-RENEWAL
+This Agreement shall automatically renew for successive 12-month terms unless either party 
+provides written notice of non-renewal at least 90 days prior to the end of the then-current term.
+Upon each renewal, the fees shall increase by 15% above the previous term's rates without 
+further notice or agreement required.
+
+4. LIABILITY
+VENDOR'S TOTAL LIABILITY TO CLIENT UNDER THIS AGREEMENT SHALL BE UNLIMITED.
+Client acknowledges that Vendor's software is provided for mission-critical operations 
+and agrees to indemnify Vendor for any third-party claims arising from Client's use of the software,
+including but not limited to regulatory fines, legal fees, and consequential damages.
+
+5. INTELLECTUAL PROPERTY
+All work product, customizations, integrations, or modifications created by Vendor or 
+jointly with Client during the term of this Agreement shall become the exclusive property of Vendor.
+Client shall have no ownership rights to any deliverable, including those paid for by Client.
+
+6. DATA PRIVACY
+Vendor may collect, process, and share Client's data with third-party analytics providers 
+for product improvement purposes. Vendor is not liable for any data breaches caused by 
+third-party subprocessors. Client waives any claim under GDPR or applicable data protection laws 
+with respect to Vendor's data sharing practices.
+
+7. TERMINATION
+Vendor may terminate this Agreement immediately, without cause, upon 7 days written notice.
+Client may only terminate for cause after providing Vendor 90 days written notice and 
+opportunity to cure. Upon any termination, Client shall pay all fees due through the 
+remainder of the current term.
+
+8. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by the laws of the State of Delaware, USA. 
+Any disputes shall be resolved exclusively through binding arbitration in Wilmington, Delaware,
+with Vendor's counsel serving as the sole arbitrator.
+
+9. NON-COMPETE
+During the term and for 5 years after termination, Client agrees not to develop, license, 
+or use any software that competes with or replicates the functionality of Vendor's software, 
+including any open-source alternatives.
+
+10. CONFIDENTIALITY
+Both parties agree to keep the terms of this Agreement and all shared information confidential 
+for a period of 10 years following termination.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+Acme Corporation Ltd                    TechVendor Solutions Inc.
+_______________________                 _______________________
+Authorized Signatory                    Authorized Signatory
